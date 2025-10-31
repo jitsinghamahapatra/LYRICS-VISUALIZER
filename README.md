@@ -32,4 +32,8 @@ Built using **Pygame**, **threading**, and **time** modules.
 4. In **main.py**, update the following line with your song name:
    ```python
    mp3_file = "your_song.mp3"
+5. Install pygame
+   ```python
+  pip install pygame
+6. Run code and lyrics print in your terminal 
 
